@@ -1,4 +1,4 @@
-echo "# Sentiment Analysis using BERT
+# Sentiment Analysis using BERT
 
 This project implements a Sentiment Analysis API using \`nlptown/bert-base-multilingual-uncased-sentiment\` with Flask. It predicts whether a given text has a **Very Negative, Negative, Neutral, Positive, or Very Positive** sentiment.
 
